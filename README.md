@@ -6,7 +6,7 @@
 
 ### Quick Facts
 
-<div align="center">
+<div align="center" width="100%">
 
   <table width="100%">
     <tr>
