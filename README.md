@@ -8,25 +8,25 @@
 
 <div align="center">
 
-  <table>
+  <table width="100%">
     <tr>
-      <td align="left" width="30%"><img src="https://gitface.dilip.live/api/fact-icon?type=location" width="18" height="18" alt="location" valign="middle" /> &nbsp; <b>Location</b></td>
+      <td align="left" nowrap><img src="https://gitface.dilip.live/api/fact-icon?type=location" width="18" height="18" alt="location" valign="middle" /> &nbsp; <b>Location</b></td>
       <td align="left">Delhi, India</td>
     </tr>
     <tr>
-      <td align="left" width="30%"><img src="https://gitface.dilip.live/api/fact-icon?type=mail" width="18" height="18" alt="mail" valign="middle" /> &nbsp; <b>Email</b></td>
+      <td align="left" nowrap><img src="https://gitface.dilip.live/api/fact-icon?type=mail" width="18" height="18" alt="mail" valign="middle" /> &nbsp; <b>Email</b></td>
       <td align="left"><a href="mailto:nitiandilip13@gmail.com">nitiandilip13@gmail.com</a></td>
     </tr>
     <tr>
-      <td align="left" width="30%"><img src="https://gitface.dilip.live/api/fact-icon?type=working" width="18" height="18" alt="working" valign="middle" /> &nbsp; <b>Working on</b></td>
+      <td align="left" nowrap><img src="https://gitface.dilip.live/api/fact-icon?type=working" width="18" height="18" alt="working" valign="middle" /> &nbsp; <b>Working on</b></td>
       <td align="left"><b>GitFace — GitHub Profile README Generator</b></td>
     </tr>
     <tr>
-      <td align="left" width="30%"><img src="https://gitface.dilip.live/api/fact-icon?type=learning" width="18" height="18" alt="learning" valign="middle" /> &nbsp; <b>Learning</b></td>
+      <td align="left" nowrap><img src="https://gitface.dilip.live/api/fact-icon?type=learning" width="18" height="18" alt="learning" valign="middle" /> &nbsp; <b>Learning</b></td>
       <td align="left"><b>Artificial Intelligence, Machine Learning, Deep Learning, Gen AI, AI Agents</b></td>
     </tr>
     <tr>
-      <td align="left" width="30%"><img src="https://gitface.dilip.live/api/fact-icon?type=collab" width="18" height="18" alt="collab" valign="middle" /> &nbsp; <b>Collaborating on</b></td>
+      <td align="left" nowrap><img src="https://gitface.dilip.live/api/fact-icon?type=collab" width="18" height="18" alt="collab" valign="middle" /> &nbsp; <b>Collaborating on</b></td>
       <td align="left"><b>Restaurant Management System</b></td>
     </tr>
   </table>
