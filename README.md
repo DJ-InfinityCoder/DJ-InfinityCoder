@@ -1,22 +1,75 @@
 <h1 align="center">Hi 👋, I'm Dilip</h1>
-<h3 align="center">I’m Dilip Meghwal, a full stack developer, competitive programmer, and problem solver. I build responsive front-end interfaces using React, Next.js, Tailwind CSS, and HTML/CSS, and develop back-end systems with Node.js, Express, MySQL, and MongoDB. I actively participate in competitive programming, which strengthens my skills in data structures and algorithms, especially in C++. I apply techniques like dynamic programming, graph theory, and advanced sorting/searching. I also work with Python, Google Apps Script, and Astro to build automation tools and scalable web solutions. I enjoy learning new technologies and solving real-world problems with clean, efficient code.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dj-infinitycoder&label=Profile%20views&color=0e75b6&style=flat" alt="dj-infinitycoder" /> </p>
+<h3 align="center">Bringing engineering ideas into reality.</h3>
 
-- 🔭 I’m currently working on **DJ Docs**
+<p align="center">I’m a third-year Computer Science student at National Institute of Technology Delhi and a full-stack developer focused on building scalable, production-ready applications, with a strong emphasis on AI systems. I enjoy transforming engineering ideas into real-world products, working across modern web technologies and backend architectures. My work centers on creating efficient, intelligent solutions that are not only functional but designed to scale and perform reliably in real-world environments.</p>
 
-- 📫 How to reach me **nitiandilip13@gmail.com**
+### Quick Facts
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dilipmeghwal13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilipmeghwal13" height="30" width="40" /></a>
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="left" width="30%"><img src="https://gitface.dilip.live/api/fact-icon?type=location" width="18" height="18" alt="location" valign="middle" /> &nbsp; <b>Location</b></td>
+      <td align="left">Delhi, India</td>
+    </tr>
+    <tr>
+      <td align="left" width="30%"><img src="https://gitface.dilip.live/api/fact-icon?type=mail" width="18" height="18" alt="mail" valign="middle" /> &nbsp; <b>Email</b></td>
+      <td align="left"><a href="mailto:nitiandilip13@gmail.com">nitiandilip13@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td align="left" width="30%"><img src="https://gitface.dilip.live/api/fact-icon?type=working" width="18" height="18" alt="working" valign="middle" /> &nbsp; <b>Working on</b></td>
+      <td align="left"><b>GitFace — GitHub Profile README Generator</b></td>
+    </tr>
+    <tr>
+      <td align="left" width="30%"><img src="https://gitface.dilip.live/api/fact-icon?type=learning" width="18" height="18" alt="learning" valign="middle" /> &nbsp; <b>Learning</b></td>
+      <td align="left"><b>Artificial Intelligence, Machine Learning, Deep Learning, Gen AI, AI Agents</b></td>
+    </tr>
+    <tr>
+      <td align="left" width="30%"><img src="https://gitface.dilip.live/api/fact-icon?type=collab" width="18" height="18" alt="collab" valign="middle" /> &nbsp; <b>Collaborating on</b></td>
+      <td align="left"><b>Restaurant Management System</b></td>
+    </tr>
+  </table>
+
+</div>
+
+<p align="center">My ideas don’t sleep… neither does my code</p>
+
+<p align="center">
+  <img src="https://gitface.dilip.live/api/visitors/dj-infinitycoder" alt="Profile Visitors" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dj-infinitycoder&show_icons=true&locale=en&layout=compact" alt="dj-infinitycoder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dj-infinitycoder&show_icons=true&locale=en" alt="dj-infinitycoder" /></p>
+## Technologies I’ve worked with
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dj-infinitycoder&" alt="dj-infinitycoder" /></p>
+<p align="center">
+  <img src="https://gitface.dilip.live/api/tech-badge?name=c-plus-plus" alt="C++" title="C++" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=c" alt="C" title="C" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=javascript" alt="Javascript" title="Javascript" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=typescript" alt="Typescript" title="Typescript" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=python" alt="Python" title="Python" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=postgresql" alt="Postgresql" title="Postgresql" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=mongodb" alt="Mongodb" title="Mongodb" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=html5" alt="HTML5" title="HTML5" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=css3" alt="CSS3" title="CSS3" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=tailwindcss" alt="Tailwindcss" title="Tailwindcss" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=nextjs" alt="Nextjs" title="Nextjs" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=expressjs-dark" alt="Expressjs Dark" title="Expressjs Dark" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=mysql" alt="Mysql" title="Mysql" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=docker" alt="Docker" title="Docker" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=kubernetes" alt="Kubernetes" title="Kubernetes" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=github-dark" alt="Github Dark" title="Github Dark" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=git" alt="Git" title="Git" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=vercel-dark-wordmark" alt="Vercel Dark Wordmark" title="Vercel Dark Wordmark" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=postman" alt="Postman" title="Postman" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=aws" alt="Aws" title="Aws" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=supabase" alt="Supabase" title="Supabase" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=nodejs" alt="Nodejs" title="Nodejs" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=linux" alt="Linux" title="Linux" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=npm-wordmark" alt="Npm Wordmark" title="Npm Wordmark" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=pnpm-dark-wordmark" alt="Pnpm Dark Wordmark" title="Pnpm Dark Wordmark" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=react-query" alt="React Query" title="React Query" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=shadcnui" alt="Shadcnui" title="Shadcnui" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=tensorflow" alt="Tensorflow" title="Tensorflow" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=numpy" alt="Numpy" title="Numpy" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=pytorch" alt="Pytorch" title="Pytorch" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=zod" alt="Zod" title="Zod" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=ubuntu" alt="Ubuntu" title="Ubuntu" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=vitejs" alt="Vitejs" title="Vitejs" height="36" hspace="10" vspace="10" /> <img src="https://gitface.dilip.live/api/tech-badge?name=vscode" alt="Vscode" title="Vscode" height="36" hspace="10" vspace="10" />
+</p>
+
+
+
+## GitHub Insights
+
+<p align="center">
+  <img src="https://gitface.dilip.live/api/stats/dj-infinitycoder?theme=light" alt="GitHub Stats" hspace="10" vspace="5" height="150" />
+  <img src="https://gitface.dilip.live/api/streak/dj-infinitycoder?theme=light" alt="GitHub Streak" hspace="10" vspace="5" height="150" />
+  <img src="https://gitface.dilip.live/api/langs/dj-infinitycoder?theme=light" alt="Top Languages" hspace="10" vspace="5" height="150" />
+  <img src="https://gitface.dilip.live/api/trophies/dj-infinitycoder?theme=light" alt="GitHub Trophies" hspace="10" vspace="5" height="150" />
+  <img src="https://gitface.dilip.live/api/persona/dj-infinitycoder?theme=light" alt="Developer Persona" hspace="10" vspace="5" height="150" />
+  <img src="https://gitface.dilip.live/api/highlights/dj-infinitycoder?theme=light" alt="Top Repositories" hspace="10" vspace="5" height="150" />
+  <img src="https://gitface.dilip.live/api/pulse/dj-infinitycoder?theme=light" alt="Productivity Pulse" hspace="10" vspace="5" height="150" />
+  <img src="https://gitface.dilip.live/api/pulse-monthly/dj-infinitycoder?theme=light" alt="Monthly Productivity Pulse" hspace="10" vspace="5" height="150" />
+  <img src="https://gitface.dilip.live/api/pulse-yearly/dj-infinitycoder?theme=light" alt="Yearly Growth Pulse" hspace="10" vspace="5" height="150" />
+  <img src="https://gitface.dilip.live/api/oss/dj-infinitycoder?theme=light" alt="Open Source Impact" hspace="10" vspace="5" height="150" />
+  <img src="https://gitface.dilip.live/api/activity/dj-infinitycoder?theme=light" alt="Profile Pulse" hspace="10" vspace="5" height="150" />
+</p>
+
+
+
+## Connect with me
+
+<p>
+  <b>Professional Presence:</b> <br />
+  <a href="https://www.linkedin.com/in/dilipmeghwal13/" target="_blank"><img src="https://gitface.dilip.live/api/social-badge?platform=LinkedIn&value=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdilipmeghwal13%2F" alt="LinkedIn" vspace="5" hspace="2" /></a>
+</p>
